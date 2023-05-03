@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Massimo Bottura",
+        "chef_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNHlsFEaSY0wplDQj4rxfMGapblShHSEi_A&usqp=CAU",
+        "experience": "5 years",
+        "total_recipe": "33 Recipe",
+        "likes": "511",
+        "banner": "https://cdn.vox-cdn.com/thumbor/EaZuYHaLJUZDHcl8EksfBLy4UDQ=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/63262787/_66A2104__1_.0.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Tortellini in Brodo",
+                "ingredients": [
+                    "pork",
+                    "prosciutto",
+                    "mortadella",
+                    "Parmigiano-Reggiano cheese",
+                    "nutmeg",
+                    "egg",
+                    "flour",
+                    "chicken broth",
+                    "carrots",
+                    "celery",
+                    "onion",
+                    "garlic",
+                    "olive oil",
+                    "salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Tagliatelle al ragù",
+                "ingredients": [
+                    "beef",
+                    "pork",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "garlic",
+                    "San Marzano tomatoes",
+                    "red wine",
+                    "beef broth",
+                    "olive oil",
+                    "butter",
+                    "tagliatelle pasta",
+                    "Parmigiano-Reggiano cheese",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_3": {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "espresso",
+                    "Marsala wine",
+                    "eggs",
+                    "sugar",
+                    "Mascarpone cheese",
+                    "ladyfingers",
+                    "cocoa powder"
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "chef_name": "Lidia Bastianich",
+        "chef_img": "https://www.pbs.org/food/wp-content/blogs.dir/2/files/2015/11/Lidia-in-kitchen-about-page_602X5041.jpg",
+        "experience": "3 years",
+        "total_recipe": "4 Recipe",
+        "likes": "588",
+        "banner": "https://www.daytondailynews.com/resizer/m4ASoIGNOdZxPch1pEvPjOulfJ8=/814x458/cloudfront-us-east-1.images.arcpublishing.com/coxohio/WOIPLQBOIBW25MRQ3JYLSC5S5Q.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Gnocchi di patate",
+                "ingredients": [
+                    "potatoes",
+                    "flour",
+                    "egg",
+                    "Parmigiano-Reggiano cheese",
+                    "nutmeg",
+                    "salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Risotto ai funghi",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "garlic",
+                    "white wine",
+                    "Parmigiano-Reggiano cheese",
+                    "butter",
+                    "olive oil",
+                    "chicken broth",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_3": {
+                "name": "Cannoli",
+                "ingredients": [
+                    "ricotta cheese",
+                    "sugar",
+                    "vanilla extract",
+                    "candied fruit",
+                    "cinnamon",
+                    "Marsala wine",
+                    "cocoa powder",
+                    "cannoli shells"
+                ]
+            },
+            "recipe_4": {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "espresso",
+                    "Marsala wine",
+                    "eggs",
+                    "sugar",
+                    "Mascarpone cheese",
+                    "ladyfingers",
+                    "cocoa powder"
+                ]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "chef_name": "Gennaro Contaldo",
+        "chef_img": "https://ollysmith.com/wp-content/uploads/2021/05/gennaro-contaldo.jpeg",
+        "experience": "1 years",
+        "total_recipe": "2 Recipe",
+        "likes": "344",
+        "banner": "https://gennarocontaldo.com/wp-content/uploads/2016/12/gennaro_tom_smith.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Spaghetti alla carbonara",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "pancetta",
+                    "egg yolks",
+                    "Parmigiano-Reggiano cheese",
+                    "pecorino cheese",
+                    "garlic",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_2": {
+                "name": "Pizza Margherita",
+                "ingredients": [
+                    "pizza dough",
+                    "San Marzano tomatoes",
+                    "mozzarella cheese",
+                    "fresh basil leaves",
+                    "olive oil",
+                    "salt"
+                ]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "chef_name": "Antonio Carluccio",
+        "chef_img": "https://i2-prod.manchestereveningnews.co.uk/incoming/article7728212.ece/ALTERNATES/s1200c/Carluccios-4a.jpg",
+        "experience": "6 years",
+        "total_recipe": "5 Recipe",
+        "likes": "628",
+        "banner": "https://regionalfood.com.au/wp-content/uploads/2014/09/cookingclass3dishcomp2.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Penne all'arrabbiata",
+                "ingredients": [
+                    "penne pasta",
+                    "San Marzano tomatoes",
+                    "garlic",
+                    "red chili flakes",
+                    "olive oil",
+                    "parsley",
+                    "salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Fettuccine alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "butter",
+                    "heavy cream",
+                    "Parmigiano-Reggiano cheese",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_3": {
+                "name": "Torta della Nonna",
+                "ingredients": [
+                    "pastry flour",
+                    "sugar",
+                    "butter",
+                    "eggs",
+                    "lemon zest",
+                    "Milk",
+                    "vanilla extract",
+                    "pine nuts",
+                    "powdered sugar"
+                ]
+            },
+            "recipe_4": {
+                "name": "Spaghetti all'amatriciana",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "guanciale",
+                    "San Marzano tomatoes",
+                    "pecorino cheese",
+                    "red pepper flakes",
+                    "olive oil",
+                    "salt"
+                ]
+            },
+            "recipe_5": {
+                "name": "Pollo alla cacciatora",
+                "ingredients": [
+                    "chicken thighs",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "red pepper flakes",
+                    "white wine",
+                    "chicken broth",
+                    "olive oil",
+                    "rosemary",
+                    "salt",
+                    "pepper"
+                ]
+            }
+        }
+    },
+    {
+        "id": 5,
+        "chef_name": "Giada De Laurentiis",
+        "chef_img": "https://food.fnr.sndimg.com/content/dam/images/food/editorial/talent/giada-de-laurentiis/FN_Giada-De-Laurentiis-About.jpg.rend.hgtvcom.336.336.suffix/1457731981255.jpeg",
+        "experience": "2 years",
+        "total_recipe": "3 Recipe",
+        "likes": "428",
+        "banner": "https://media.gettyimages.com/id/474227909/photo/chef-giada-de-laurentiis-attends-ciao-chow-an-italian-dim-sum-style-champagne-brunch-with.jpg?s=612x612&w=gi&k=20&c=Ken7uDXt_2hAz5SUwEEeM4o8BZfwj8wG-laBAsbZOGw=",
+        "recipe": {
+            "recipe_1": {
+                "name": "Lasagna Bolognese",
+                "ingredients": [
+                    "lasagna noodles",
+                    "beef",
+                    "pork",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "San Marzano tomatoes",
+                    "red wine",
+                    "Parmigiano-Reggiano cheese",
+                    "mozzarella cheese",
+                    "ricotta cheese",
+                    "olive oil",
+                    "butter",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_2": {
+                "name": "Linguine alle vongole",
+                "ingredients": [
+                    "linguine pasta",
+                    "clams",
+                    "garlic",
+                    "red pepper flakes",
+                    "white wine",
+                    "parsley",
+                    "lemon juice",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ]
+            },
+            "recipe_3": {
+                "name": "Torta Caprese al limone",
+                "ingredients": [
+                    "almond flour",
+                    "sugar",
+                    "butter",
+                    "white chocolate",
+                    "eggs",
+                    "lemon zest",
+                    "lemon juice",
+                    "powdered sugar"
+                ]
+            }
+        }
+    },
+    {
+        "id": 6,
+        "chef_name": "Mario Batali",
+        "chef_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJRBLz__oBc0Eq3ZNZqkeiv9AEe0RlZsChzFl5nK4A2rRA_jvbWYLgY0ldVhrmwcG1ow&usqp=CAU",
+        "experience": "3 years",
+        "total_recipe": "2 Recipe",
+        "likes": "554",
+        "banner": "https://www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/097B728D9A2143C5990517121791583B/image-2019-05-24-2.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Spaghetti all'amatriciana",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "guanciale",
+                    "San Marzano tomatoes",
+                    "pecorino cheese",
+                    "red pepper flakes",
+                    "olive oil",
+                    "salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Pollo alla cacciatora",
+                "ingredients": [
+                    "chicken thighs",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "red pepper flakes",
+                    "white wine",
+                    "chicken broth",
+                    "olive oil",
+                    "rosemary",
+                    "salt",
+                    "pepper"
+                ]
+            }
+        }
+    }
+]
