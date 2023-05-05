@@ -2,61 +2,51 @@
     {
         "id": 1,
         "chef_name": "Massimo Bottura",
+        "chef_bio": "Massimo Bottura was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia.",
         "chef_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNHlsFEaSY0wplDQj4rxfMGapblShHSEi_A&usqp=CAU",
         "experience": "5 years",
         "total_recipe": "33 Recipe",
         "likes": "511",
         "banner": "https://cdn.vox-cdn.com/thumbor/EaZuYHaLJUZDHcl8EksfBLy4UDQ=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/63262787/_66A2104__1_.0.jpg",
         "recipe": {
+            "id": "1",
             "recipe_1": {
+                "id": "c1r1n1",
                 "name": "Tortellini in Brodo",
+                "method": "In a small stockpot, bring stock to a boil over medium heat. Season with salt and pepper, and stir in tortellini. Cook pasta according to package instructions (it should float to the top when finished). Remove from heat, and serve hot.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVG_L-zuIFz8LLPPrEh72EJ0lkcgDjOrqaXw&usqp=CAU",
                 "ingredients": [
                     "pork",
                     "prosciutto",
                     "mortadella",
                     "Parmigiano-Reggiano cheese",
-                    "nutmeg",
-                    "egg",
-                    "flour",
-                    "chicken broth",
-                    "carrots",
-                    "celery",
-                    "onion",
-                    "garlic",
-                    "olive oil",
-                    "salt"
+                    "nutmeg"
                 ]
             },
             "recipe_2": {
+                "id": "c1r2n2",
                 "name": "Tagliatelle al ragù",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5utDW1TIK_1oCQ4qDPn_ZnfUUHS4xRdkIkQ&usqp=CAU",
                 "ingredients": [
                     "beef",
                     "pork",
                     "onion",
                     "carrots",
-                    "celery",
-                    "garlic",
-                    "San Marzano tomatoes",
-                    "red wine",
-                    "beef broth",
-                    "olive oil",
-                    "butter",
-                    "tagliatelle pasta",
-                    "Parmigiano-Reggiano cheese",
-                    "salt",
-                    "pepper"
+                    "celery"
                 ]
             },
             "recipe_3": {
+                "id": "c1r3n3",
                 "name": "Tiramisu",
+                "method": "Add whipping cream to a mixing bowl and beat on medium speed with electric mixers (or use a stand mixer). Slowly add sugar and vanilla and continue to beat until stiff peaks. Add mascarpone cheese and mix just until combined. Set aside. Add coffee and liqueur to a shallow bowl. Dip the lady fingers in the coffee (Don't soak them--just quickly dip them on both sides to get them wet). ",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnplY0BMsrL9QLjanNtAx20i8NOpliK0UhKw&usqp=CAU",
                 "ingredients": [
                     "espresso",
                     "Marsala wine",
                     "eggs",
                     "sugar",
-                    "Mascarpone cheese",
-                    "ladyfingers",
-                    "cocoa powder"
+                    "Mascarpone cheese"
                 ]
             }
         }
@@ -64,6 +54,7 @@
     {
         "id": 2,
         "chef_name": "Lidia Bastianich",
+        "chef_bio": "Lidia Bastianich was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia, but in 1986 he interrupted his studies and chose to join the family business..",
         "chef_img": "https://www.pbs.org/food/wp-content/blogs.dir/2/files/2015/11/Lidia-in-kitchen-about-page_602X5041.jpg",
         "experience": "3 years",
         "total_recipe": "54 Recipe",
@@ -71,55 +62,42 @@
         "banner": "https://www.daytondailynews.com/resizer/m4ASoIGNOdZxPch1pEvPjOulfJ8=/814x458/cloudfront-us-east-1.images.arcpublishing.com/coxohio/WOIPLQBOIBW25MRQ3JYLSC5S5Q.jpg",
         "recipe": {
             "recipe_1": {
+                "id": "c2r1n1",
                 "name": "Gnocchi di patate",
+                "method": "Heat oil in large pot over medium-high heat. Add garlic, rosemary, and bay leaf; sauté until garlic is golden, about 1 minute. Sprinkle lamb with salt and pepper. Add lamb to pot; sauté until browned, about 8 minutes. Add wine; scrape up browned bits. Stir in tomatoes, 1 cup water, and 1 teaspoon salt; bring to simmer. Reduce heat, cover, and simmer until lamb is tender.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREisG9Wgnwbz_Vru1qtiGnRmvRRSrmql6SFQ&usqp=CAU",
                 "ingredients": [
                     "potatoes",
                     "flour",
                     "egg",
                     "Parmigiano-Reggiano cheese",
-                    "nutmeg",
-                    "salt"
+                    "nutmeg"
                 ]
             },
             "recipe_2": {
+                "id": "c2r2n2",
                 "name": "Risotto ai funghi",
+                "method": "Use a small (2 or 3-quart) pot. Heat 3 tablespoons of olive oil on medium heat.Add garlic and red pepper flakes, and sauté until garlic turns golden.Add sliced mushrooms and simmer for 3 to 4 minutes.Add the prosecco or white wine and reduce the heat, simmer for 2 minutes. Turn off the heat.Using a medium size (3 or 4 quarts) pot. Heat 2 tablespoons butter with 1 tablespoon olive oil.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppHnhnLtBXByDIVUEZFAANFuB8tK72_G7Lw&usqp=CAU",
                 "ingredients": [
                     "arborio rice",
                     "mushrooms",
                     "onion",
                     "garlic",
-                    "white wine",
-                    "Parmigiano-Reggiano cheese",
-                    "butter",
-                    "olive oil",
-                    "chicken broth",
-                    "salt",
-                    "pepper"
+                    "white wine"
                 ]
             },
             "recipe_3": {
+                "id": "c2r3n3",
                 "name": "Cannoli",
+                "method": "Mix dry ingredients in a food processor.Pulse in butter.Add marsala wine and egg and pulse to bring together.Transfer to oiled bowl, cover and rest dough.Heat oil in pot.Roll dough out very thin on a floured surface.Cut into rounds or ovals (about 4-inches each).Wrap rounds around greased cannoli forms, brush top or bottom edge with egg white to seal shut.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8SGUvWLUDT-DeDTL6CV-LwQAlC8uFFefBg&usqp=CAU",
                 "ingredients": [
                     "ricotta cheese",
                     "sugar",
                     "vanilla extract",
                     "candied fruit",
-                    "cinnamon",
-                    "Marsala wine",
-                    "cocoa powder",
-                    "cannoli shells"
-                ]
-            },
-            "recipe_4": {
-                "name": "Tiramisu",
-                "ingredients": [
-                    "espresso",
-                    "Marsala wine",
-                    "eggs",
-                    "sugar",
-                    "Mascarpone cheese",
-                    "ladyfingers",
-                    "cocoa powder"
+                    "cinnamon"
                 ]
             }
         }
@@ -127,35 +105,52 @@
     {
         "id": 3,
         "chef_name": "Gennaro Contaldo",
+        "chef_bio": "Gennaro Contaldo was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia, but in 1986 he interrupted his studies and chose to join the family business, where he initially worked as a wholesaler of petroleum products.",
         "chef_img": "https://ollysmith.com/wp-content/uploads/2021/05/gennaro-contaldo.jpeg",
         "experience": "1 years",
         "total_recipe": "43 Recipe",
         "likes": "344",
         "banner": "https://gennarocontaldo.com/wp-content/uploads/2016/12/gennaro_tom_smith.jpg",
         "recipe": {
+            "id": "3",
             "recipe_1": {
+                "id": "c3r1n1",
                 "name": "Spaghetti alla carbonara",
+                "method": "Add whipping cream to a mixing bowl and beat on medium speed with electric mixers (or use a stand mixer). Slowly add sugar and vanilla and continue to beat until stiff peaks. Add mascarpone cheese and mix just until combined. Set aside. Add coffee and liqueur to a shallow bowl. Dip the lady fingers in the coffee (Don't soak them--just quickly dip them on both sides to get them wet).",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnplY0BMsrL9QLjanNtAx20i8NOpliK0UhKw&usqp=CAU",
                 "ingredients": [
                     "spaghetti pasta",
                     "pancetta",
                     "egg yolks",
                     "Parmigiano-Reggiano cheese",
                     "pecorino cheese",
-                    "garlic",
-                    "olive oil",
-                    "salt",
-                    "pepper"
+                    "garlic"
                 ]
             },
             "recipe_2": {
+                "id": "c3r2n1",
                 "name": "Pizza Margherita",
+                "method": "In a small stockpot, bring stock to a boil over medium heat. Season with salt and pepper, and stir in tortellini. Cook pasta according to package instructions (it should float to the top when finished). Remove from heat, and serve hot.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVG_L-zuIFz8LLPPrEh72EJ0lkcgDjOrqaXw&usqp=CAU",
                 "ingredients": [
                     "pizza dough",
                     "San Marzano tomatoes",
                     "mozzarella cheese",
                     "fresh basil leaves",
-                    "olive oil",
-                    "salt"
+                    "olive oil"
+                ]
+            },
+            "recipe_3": {
+                "id": "c3r1n3",
+                "name": "Spaghetti all'amatriciana",
+                "method": "Mix dry ingredients in a food processor.Pulse in butter.Add marsala wine and egg and pulse to bring together.Transfer to oiled bowl, cover and rest dough.Heat oil in pot.Roll dough out very thin on a floured surface.Cut into rounds or ovals (about 4-inches each).Wrap rounds around greased cannoli forms, brush top or bottom edge with egg white to seal shut.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8SGUvWLUDT-DeDTL6CV-LwQAlC8uFFefBg&usqp=CAU",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "guanciale",
+                    "San Marzano tomatoes",
+                    "pecorino cheese",
+                    "red pepper flakes"
                 ]
             }
         }
@@ -163,6 +158,7 @@
     {
         "id": 4,
         "chef_name": "Antonio Carluccio",
+        "chef_bio": "Antonio Carluccio was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia.",
         "chef_img": "https://i2-prod.manchestereveningnews.co.uk/incoming/article7728212.ece/ALTERNATES/s1200c/Carluccios-4a.jpg",
         "experience": "6 years",
         "total_recipe": "35 Recipe",
@@ -170,68 +166,42 @@
         "banner": "https://regionalfood.com.au/wp-content/uploads/2014/09/cookingclass3dishcomp2.jpg",
         "recipe": {
             "recipe_1": {
+                "id": "c4r1n1",
                 "name": "Penne all'arrabbiata",
+                "method": "In a small stockpot, bring stock to a boil over medium heat. Season with salt and pepper, and stir in tortellini. Cook pasta according to package instructions (it should float to the top when finished). Remove from heat, and serve hot.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVG_L-zuIFz8LLPPrEh72EJ0lkcgDjOrqaXw&usqp=CAU",
                 "ingredients": [
                     "penne pasta",
                     "San Marzano tomatoes",
                     "garlic",
                     "red chili flakes",
-                    "olive oil",
-                    "parsley",
-                    "salt"
+                    "olive oil"
                 ]
             },
             "recipe_2": {
+                "id": "c4r2n2",
                 "name": "Fettuccine alfredo",
+                "method": "Mix dry ingredients in a food processor.Pulse in butter.Add marsala wine and egg and pulse to bring together.Transfer to oiled bowl, cover and rest dough.Heat oil in pot.Roll dough out very thin on a floured surface.Cut into rounds or ovals (about 4-inches each).Wrap rounds around greased cannoli forms.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8SGUvWLUDT-DeDTL6CV-LwQAlC8uFFefBg&usqp=CAU",
                 "ingredients": [
                     "fettuccine pasta",
                     "butter",
                     "heavy cream",
                     "Parmigiano-Reggiano cheese",
-                    "salt",
-                    "pepper"
+                    "salt"
                 ]
             },
             "recipe_3": {
+                "id": "c4r3n1",
                 "name": "Torta della Nonna",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "pastry flour",
                     "sugar",
                     "butter",
                     "eggs",
-                    "lemon zest",
-                    "Milk",
-                    "vanilla extract",
-                    "pine nuts",
-                    "powdered sugar"
-                ]
-            },
-            "recipe_4": {
-                "name": "Spaghetti all'amatriciana",
-                "ingredients": [
-                    "spaghetti pasta",
-                    "guanciale",
-                    "San Marzano tomatoes",
-                    "pecorino cheese",
-                    "red pepper flakes",
-                    "olive oil",
-                    "salt"
-                ]
-            },
-            "recipe_5": {
-                "name": "Pollo alla cacciatora",
-                "ingredients": [
-                    "chicken thighs",
-                    "tomatoes",
-                    "onion",
-                    "garlic",
-                    "red pepper flakes",
-                    "white wine",
-                    "chicken broth",
-                    "olive oil",
-                    "rosemary",
-                    "salt",
-                    "pepper"
+                    "lemon zest"
                 ]
             }
         }
@@ -239,58 +209,50 @@
     {
         "id": 5,
         "chef_name": "Giada De Laurentiis",
+        "chef_bio": "Giada De Laurentiis was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia, but in 1986 he interrupted his studies and chose to join the family business, where he initially worked as a wholesaler of petroleum products.",
         "chef_img": "https://food.fnr.sndimg.com/content/dam/images/food/editorial/talent/giada-de-laurentiis/FN_Giada-De-Laurentiis-About.jpg.rend.hgtvcom.336.336.suffix/1457731981255.jpeg",
         "experience": "2 years",
         "total_recipe": "23 Recipe",
         "likes": "428",
         "banner": "https://media.gettyimages.com/id/474227909/photo/chef-giada-de-laurentiis-attends-ciao-chow-an-italian-dim-sum-style-champagne-brunch-with.jpg?s=612x612&w=gi&k=20&c=Ken7uDXt_2hAz5SUwEEeM4o8BZfwj8wG-laBAsbZOGw=",
         "recipe": {
+            "id": "5",
             "recipe_1": {
+                "id": "c5r1n1",
                 "name": "Lasagna Bolognese",
+                "method": "Add whipping cream to a mixing bowl and beat on medium speed with electric mixers (or use a stand mixer). Slowly add sugar and vanilla and continue to beat until stiff peaks. Add mascarpone cheese and mix just until combined. Set aside. Add coffee and liqueur to a shallow bowl. Dip the lady fingers in the coffee (Don't soak them--just quickly dip them on both sides to get them wet).",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnplY0BMsrL9QLjanNtAx20i8NOpliK0UhKw&usqp=CAU",
                 "ingredients": [
                     "lasagna noodles",
                     "beef",
                     "pork",
                     "onion",
-                    "carrots",
-                    "celery",
-                    "San Marzano tomatoes",
-                    "red wine",
-                    "Parmigiano-Reggiano cheese",
-                    "mozzarella cheese",
-                    "ricotta cheese",
-                    "olive oil",
-                    "butter",
-                    "salt",
-                    "pepper"
+                    "carrots"
                 ]
             },
             "recipe_2": {
+                "id": "c5r2n2",
                 "name": "Linguine alle vongole",
+                "method": "Mix dry ingredients in a food processor.Pulse in butter.Add marsala wine and egg and pulse to bring together.Transfer to oiled bowl, cover and rest dough.Heat oil in pot.Roll dough out very thin on a floured surface.Cut into rounds or ovals (about 4-inches each).Wrap rounds around greased cannoli forms..",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8SGUvWLUDT-DeDTL6CV-LwQAlC8uFFefBg&usqp=CAU",
                 "ingredients": [
                     "linguine pasta",
                     "clams",
                     "garlic",
                     "red pepper flakes",
-                    "white wine",
-                    "parsley",
-                    "lemon juice",
-                    "olive oil",
-                    "salt",
-                    "pepper"
+                    "white wine"
                 ]
             },
             "recipe_3": {
+                "id": "c5r2n3",
                 "name": "Torta Caprese al limone",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon.",
                 "ingredients": [
                     "almond flour",
                     "sugar",
                     "butter",
                     "white chocolate",
-                    "eggs",
-                    "lemon zest",
-                    "lemon juice",
-                    "powdered sugar"
+                    "eggs"
                 ]
             }
         }
@@ -298,6 +260,7 @@
     {
         "id": 6,
         "chef_name": "Mario Batali",
+        "chef_bio": "Mario Batali Laurentiis was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family. After secondary school, he enrolled in law school at the University of Modena and Reggio Emilia.",
         "chef_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJRBLz__oBc0Eq3ZNZqkeiv9AEe0RlZsChzFl5nK4A2rRA_jvbWYLgY0ldVhrmwcG1ow&usqp=CAU",
         "experience": "3 years",
         "total_recipe": "52 Recipe",
@@ -305,31 +268,42 @@
         "banner": "https://www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/097B728D9A2143C5990517121791583B/image-2019-05-24-2.jpg",
         "recipe": {
             "recipe_1": {
+                "id": "c6r1n1",
                 "name": "Spaghetti all'amatriciana",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn..",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5utDW1TIK_1oCQ4qDPn_ZnfUUHS4xRdkIkQ&usqp=CAU",
                 "ingredients": [
                     "spaghetti pasta",
                     "guanciale",
                     "San Marzano tomatoes",
                     "pecorino cheese",
-                    "red pepper flakes",
-                    "olive oil",
-                    "salt"
+                    "red pepper flakes"
                 ]
             },
             "recipe_2": {
+                "id": "c6r2n2",
                 "name": "Pollo alla cacciatora",
+                "method": "Heat oil in large pot over medium-high heat. Add garlic, rosemary, and bay leaf; sauté until garlic is golden, about 1 minute. Sprinkle lamb with salt and pepper. Add lamb to pot; sauté until browned, about 8 minutes. Add wine; scrape up browned bits. Stir in tomatoes, 1 cup water, and 1 teaspoon salt; bring to simmer..",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREisG9Wgnwbz_Vru1qtiGnRmvRRSrmql6SFQ&usqp=CAU",
                 "ingredients": [
                     "chicken thighs",
                     "tomatoes",
                     "onion",
                     "garlic",
-                    "red pepper flakes",
-                    "white wine",
-                    "chicken broth",
-                    "olive oil",
-                    "rosemary",
-                    "salt",
-                    "pepper"
+                    "red pepper flakes"
+                ]
+            },
+            "recipe_3": {
+                "id": "c6r3n3",
+                "name": "Pollo alla cacciatora",
+                "method": "Heat oil in large pot over medium-high heat. Add garlic, rosemary, and bay leaf; sauté until garlic is golden, about 1 minute. Sprinkle lamb with salt and pepper. Add lamb to pot; sauté until browned, about 8 minutes. Add wine; scrape up browned bits. Stir in tomatoes, 1 cup water, and 1 teaspoon salt; bring to simmer. ",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREisG9Wgnwbz_Vru1qtiGnRmvRRSrmql6SFQ&usqp=CAU",
+                "ingredients": [
+                    "chicken thighs",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "red pepper flakes"
                 ]
             }
         }
